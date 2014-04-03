@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dont-let-your-ball-drop-android/bin/dexedLibs/gdx-backend-android-sources-08cf2624dc0edccd9d645641b754cb9c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dont-let-your-ball-drop-android/bin/dexedLibs/gdx-3686d5292efe8414167eba1f89ca6c2b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dont-let-your-ball-drop-android/bin/dexedLibs/gdx-backend-android-13af60c09f7a2a963b3083224c2cc3b3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
